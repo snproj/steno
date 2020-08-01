@@ -1,0 +1,158 @@
+P\D\150\REPORT: Bill Gates Attacks National High Court with Deadly Banana;
+
+C\ ACTOR DIVISION;
+A\Private Individual\Gokul Rajiv;
+A\Private Individual\Aditya Batura;
+A\Private Corporation\Codomo\Gokul Rajiv\Aditya Batura;
+
+A\Private Individual\Wolf Blitzer;
+A\Public Corporation\CNN\Wolf Blitzer;
+
+A\Private Individual\Bob Dingles;
+A\Private Corporation\Microsoft\Bob Dingles;
+
+A\Private Individual\Bill Gates;
+
+A\Public\THE PUBLIC DOMAIN;
+
+
+C\ MATERIALS DIVISION;
+M\Digital Letter\Email\Codomo\
+	An email confirming Gokul Rajiv as a new hire of Codomo
+\Gokul Hiring Letter\codomo_hires_gokul.txt\Mcodomo_hires_gokul;
+
+M\Digital Post\Social Media\Codomo\
+	A picture advertising the merits of Codomo to the public
+\Codomo Advertising\https://www.instagram.com/wildphysics/\Mcodomo_advert;
+
+M\Digital Video\News Broadcast\CNN\
+	International news coverage of Codomo's public debut event
+\Codomo on CNN\codomo.mp4\Mcodomo_on_cnn;
+
+M\Digital Letter\Email\Microsoft\
+	TWO INSTANCES OF THIS LETTER. A company letter chiding Gates and Dingles for open threats to each other. An excerpt: "The throwing of pies in office and veiled threats to flip each others' tables and eat their respective desktop computers is not condonable professional behaviour and HR will be notified if any nonsensical behaviour continues to occur."
+\Microsoft Internal Letter\microsoft_internal_letter.txt\Mmicrosoft_internal_letter;
+
+M\Digital Video\Social Media\Bob Dingles\
+	A social media post where Dingles says that he will "Make Bill regret ever forcing me to taste apple cherry pie. Soon, in the future, it's coming, watch your back, Billy ol' boy." The post has since been taken down but had already been recorded on the source mp4 file.
+\Dingles' Threat\dingles_threat.mp4\Mdingles_threat;
+
+M\Physical Letter\in person\Microsoft\
+	A business letter evicting Gates from Microsoft and installing Bob Dingle as CEO
+\Microsoft Letter\microsoft_letter.txt\Mmicrosoft_letter;
+
+M\Digital Letter\Email\Bill Gates\
+	A personal email requesting a merger between Codomo and Microsoft, phrased nicely, with the phrases "pretty please" repeated 167 times in total throughout the transcript.
+\Gates Email\gates_email.txt\Mgates_email;
+
+M\Digital Video\News Broadcast\CNN\
+	International news coverage of the dispute between Gokul Rajiv and Aditya Batura regarding the merger
+\Codomo dispute on CNN\gokul.mp4\Mgokul_on_cnn;
+
+M\Digital Video\News Broadcast\CNN\
+	International news coverage of Gates' attack on the courtroom
+\Gates' Attack\gates_attack.mp4\Mgates_attack;
+
+
+C\ RECORDINGS DIVISION;
+R\2019,7,16\Microsoft\Mmicrosoft_letter\Bob Dingles\NONE\Microsoft chides Dingles\Rmicrosoft_internal_letter1;
+R\2019,7,16\Microsoft\Mmicrosoft_letter\Bill Gates\NONE\Microsoft chides Gates\Rmicrosoft_internal_letter2;
+R\2020,1,28\Codomo\Mcodomo_hires_gokul\Gokul Rajiv\NONE\Codomo hires Gokul Rajiv\Rcodomo_hires_gokul;
+R\2020,4,20\Bob Dingles\Mdingles_threat\THE PUBLIC DOMAIN\Rmicrosoft_internal_letter1, Rmicrosoft_internal_letter2\Dingles makes a vague threat to Bill on social media\Rdingles_threat;
+R\2020,5,13\Microsoft\Mmicrosoft_letter\Bill Gates\Rdingles_threat\Microsoft ousts Bill Gates\Rmicrosoft_letter;
+R\2022,2,19\Codomo\Mcodomo_advert\THE PUBLIC DOMAIN\NONE\Codomo advertises on Social Media\Rcodomo_advert;
+R\2022,2,19\CNN\Mcodomo_on_cnn\THE PUBLIC DOMAIN\Rcodomo_advert\CNN broadcasts Codomo's public debut\Rcodomo_on_cnn;
+R\2022,7,25\Bill Gates\Mgates_email\Codomo\Rcodomo_on_cnn, Rmicrosoft_letter\Bill Gates email Codomo about merger\Rgates_email;
+R\2022,9,10\CNN\Mgokul_on_cnn\THE PUBLIC DOMAIN\Rcodomo_hires_gokul, Rgates_email\Gokul is interviewed about the Codomo dispute\Rgokul_on_cnn;
+R\2022,9,10\CNN\Mgates_attack\THE PUBLIC DOMAIN\Rgokul_on_cnn\Gates barges into the courtroom wielding a deadly banana\Rgates_attack;
+
+
+C\ PRINTING DIVISION;
+
+AA;AM;AR;
+
+P\D\150\BEGINNING OF REPORTER'S PIECE
+.
+;
+P\D\100\The Dispute Between Codomo and Gates
+.
+;
+
+P\I\Rgokul_on_cnn\
+.
+Recently, an interview conducted by news broadcasting giant CNN on the case of the dispute between Codomo and Mr. Bill Gates, founder of well-known tech giant Microsoft, led to the devastating and shocking attack by Mr Bill Gates on the National High Court. It has been a bewildering turn of events following the devastation that has been wrought, and we're all left wondering: How did this happen?
+
+Most of us may not be familiar with the surreal chain of events that has occurred over the past few years that lead up to this event. Let us take a brief look at the various chains of events linked to this one, and investigate which of these might be the primary root cause of the recent tragedy.
+;
+
+P\T\Rgates_attack;
+
+P\I\Rcodomo_hires_gokul\Rcodomo_advert\Rmicrosoft_internal_letter1\Rmicrosoft_internal_letter2\
+.
+Here we see generated for us a list of the various possible root causes that ultimately lead to the devastating and tragic attack by Gates on the National High Court. In order to better determine which of these might be the primary root cause of the recent tragedy, let us review each of these events one by one.
+;
+
+P\RV\100, Various Root Causes of the NHC Attack\
+R\Rmicrosoft_internal_letter1\R\Rmicrosoft_internal_letter2\I\Rcodomo_hires_gokul\Rcodomo_advert\
+.
+These two events seem to be routine hirings and advertisements by a new company. There does not seem to be anything out of the ordinary about them that could have single-handedly lead to Gate's attack on the NHC.
+
+\R\Rcodomo_hires_gokul\R\Rcodomo_advert\I\Rmicrosoft_internal_letter1\Rmicrosoft_internal_letter2\
+.
+These two events, on the other hand, represent Microsoft's formal reprimands of Microsoft employees Bob Dingles (current CEO) and Bill Gates (former CEO) for misconduct. This is more interesting.
+;
+
+P\D\150\Let us see if we can glean any useful information from the reprimand letters (identical letters were sent to Dingle and Gates each save for differences in names);
+
+P\RV\50, Microsoft's Reprimand Letters To Dingles and Gates\
+M\Mmicrosoft_internal_letter\I\Mmicrosoft_internal_letter\.
+It is shocking that high-ranking employees of world-reknowned tech giant Microsoft would "[throw] pies in office", or threaten to "flip each others' tables" and "eat their respective desktop computers". We can, of course, see that some very questionable behaviour indeed has been going on at Microsoft, at least from 2019,7,16 (the date of the letters). Now the question comes into mind: Which employee started it?
+
+Let us thusly continue our investigation. We have garnered a social media post from Bob Dingles, as well as a personal email from Gates, and their respective contents are nothing less than absolutely different. We have here a curious insight into the minds of these two famous individuals:
+;
+
+P\C\Mdingles_threat\Mgates_email;
+
+P\I\Mdingles_threat\Mgates_email\
+.
+As seen from comparing these two pieces of evidence from these two people of reknown, we can conclude that Bob Dingles has anger issues while Bill Gates is a lovable hip young man.
+
+Dingles was the worse hire. We can vouch for that.
+
+So, with the most pertinent chain of events now clear to us, let's examine what happened, from top to bottom, following threads 3 and 4 of recordings shown earlier. 
+
+;
+
+P\D\150\MAIN CHAIN OF EVENTS
+
+
+
+;
+
+P\RV\100, Our Main Chain of Events\
+R\Rmicrosoft_internal_letter1\R\Rmicrosoft_internal_letter2\I\Rmicrosoft_internal_letter1\Rmicrosoft_internal_letter2\
+
+So, our story starts with Microsoft sending damning letters reproaching Gates and Dingles for inappropriate behaviour.
+
+\R\Rdingles_threat\I\Rdingles_threat\
+
+Dingles then demonstrates his threatening and hostile behaviour towards Gates in a [now deleted] social media post.
+
+\R\Rmicrosoft_letter\I\Rmicrosoft_letter\
+
+I hypothesize some behind-the-scenes manipulation and evil string-pulling on Dingles' part here due to his aformentioned hostile tendencies, eventually getting Gates ousted from the company he had helped to found...
+
+\R\Rgates_email\I\
+
+Rgates_email\Out of a job, Gates appeals to Codomo to seek a merger between it and the company he no longer works for, inappropriate to say the least if you ask me...
+
+\R\Rgokul_on_cnn\I\Rgokul_on_cnn\
+
+This interview was the sign of a debate between him and Aditya, possibly due to the inappropiacy of Gates' nevertheless tempting offer...
+
+\R\Rgates_attack\I\
+
+Rgates_attack\Driven insane by waiting while his hostile rival Dingles lounges in Microsoft, Gates goes berserk and attacks the NHC.
+;
+
+P\D\150\END OF REPORT;
